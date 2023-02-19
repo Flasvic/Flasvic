@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Flavio Vicente
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, CSS, JS
 - 💞️ I’m looking to collaborations
 - 📫 Looking to reach the next level
 
